@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.site-header-content {
+    margin: 10px;
+}
+
+.site-header {
+    background-color: #1bbc9b;
+    color: #f2e2e2;
+    height: 100vh;
+    font-family: monospace;
+}
+
+.my_dp {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
