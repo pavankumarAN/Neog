@@ -12,10 +12,22 @@
     color: #f2e2e2;
     height: 100vh;
     font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .my_dp {
     height: 200px;
     width: 200px;
     border-radius: 50%;
+}
+
+.ytb-ch-link {
+    color: #ff1515;
+    text-decoration: none;
+    font-family: cursive;
+    font-size: large;
+    font-weight: bolder;
 }
